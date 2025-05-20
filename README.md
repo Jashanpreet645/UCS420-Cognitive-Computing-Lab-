@@ -12,4 +12,4 @@ I used the IRIS dataset in assignment 3
 - This is the assignment-7 =>[Click Here](assignment-7.pdf)
 - This is the assignment-8 =>[Click Here](assignment-8.pdf)
 - This is the assignment-9 =>[Click Here](assignment-9.pdf)
-- This is the assignment-9 =>[Click Here](assignment-10.pdf)
+- This is the assignment-10 =>[Click Here](assignment-10.pdf)
